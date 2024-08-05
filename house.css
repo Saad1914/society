@@ -1,0 +1,367 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    font-family:"Open Sans", sans-serif; 
+}
+.nav-bar{
+   width: 1200px;
+   margin: 0% auto;
+   justify-content: space-between;
+   padding: 15px;
+    display: flex;
+}
+.menu{
+    width: 50px;
+    font-size: 24px;
+    color: black;
+    font-weight: 700px;
+    cursor: pointer;
+}
+.main1{
+    background-image: url('https://images01.nicepage.com/c461c07a441a5d220e8feb1a/8f0777a3ca3152e48e730e72/jhj-min.jpg');
+    height: 700px;
+    background-size: cover; 
+    background-position: 50% 50%;
+    background-repeat: no-repeat; 
+    position: relative; 
+    color: white;
+}
+.one{
+    width: 1200px;
+    margin: 0% auto;
+    display: flex;
+    padding-top: 50px;
+}
+.text1{
+    padding-top: 40px;
+    font-size: 48px;
+    margin-left: 400px;
+    font-family:"Open Sans", sans-serif;
+    height: 400px;
+    width: 350px; 
+}
+.line{
+    background-color:#e8b846;
+    width: 10px;
+    height: 450px;
+    
+}
+.text2{
+    font-size: 1.125rem;
+    text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.2);
+    margin: 15px;
+    width: 300px;
+}
+
+.frepik{
+    margin-top: 30px;
+    font-size: 20px;
+    
+}
+.btn1{
+    padding: 20px 60px;
+    font-weight: 700;
+    border-radius: 7px;
+    background-color: #e8b846;
+    border: none;
+    margin-top: 40px;
+    cursor: pointer;
+}
+.btn1:hover{
+    background: white;
+}
+.main2{
+    background-color: #d9d9d9;
+    color: black;
+}
+.two{margin-top: -105px;
+    
+    width: 1200px;
+    margin: 0% auto;
+    display: flex;
+    gap: 30px;
+    
+}
+.home{
+ z-index: 1;
+    margin-top: -30px;
+    margin-bottom: 70px;
+    background-color: white;
+    width: 33%;
+    text-align: center;
+    line-height: 2;
+}
+
+.text3{
+    padding-top: 80px;
+    font-size: 24px;
+}
+.text4{
+    color: #999999;
+   font-size: 20px;
+   width:  300px;
+   text-align: center;
+   margin: 0 auto;
+   padding-bottom: 30px;
+}
+span{
+    border-radius: 150px;
+    background-color: #e8b846;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 124px;
+    height: 124px;
+    margin: -40px auto  ;
+}
+.home-png{
+    width: 64px;
+    height: 64px;
+}
+.main3{
+    background-color: #e8b846;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.three{
+    width: 1200px;
+    margin: 0% auto;
+}
+.circle{z-index: 0;
+    background-color: #e6e6e6;
+    border-radius: 120px;
+    width: 180px;
+    height: 180px;
+    margin-left: 750px
+    
+}
+.m3img1{
+    position: relative;
+    z-index: 1;
+    width: 778px;
+    height: 540px;
+    margin-left: 80px;
+    margin-top: -100px;
+}
+.lining-circle{
+    
+    z-index: 2;
+    height: 122px;
+    width: 122px;
+    margin-left: 10px;
+    margin-top: -40px;
+}
+.m3-text1{
+    z-index: 1;
+    position: relative;
+    margin-left: 700px;
+    margin-top: -320px;
+    width: 300px;
+    background-color: white;
+    padding: 10px;
+   
+    
+}
+.text5{
+    margin-left: 20px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.text6{
+    line-height: 1.5;
+    
+    padding: 20px 10px;
+}
+.frepik2{
+    color: #999999;
+ padding-left: 20px;   
+}
+.main4{
+    background-color: #d9d9d9;
+    padding-top: 50px;
+}
+.four{
+    width: 1200px;
+    margin: 0 auto;
+}
+.text7{
+    text-align: center;
+}
+.yellow{
+    padding-left: 10px;
+    margin-left: 10px;
+    width: 30px;
+    height: 90px;
+    background-color: #e8b846;
+}
+.para1{
+    box-shadow: 5px 5px 25px #888888;
+    margin-top: 40px;
+    line-height: 1.5;
+    padding: 15px;
+    display: flex;
+    gap: 20px;
+    width: 400px;
+    height: 130px;
+    color: #111111;
+    background-color: white;
+
+}
+.text8{
+    width: 350px;
+}
+.flex1{
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+}
+.flex2{
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    margin-bottom: 150px;
+    
+}
+.decorating{z-index: 1;
+    position: relative;
+    padding-bottom: 20px;
+    width: 450px;
+    background-color: white;
+    margin: 0% auto;
+    padding-left: 30px;
+    padding-top: 30px;
+}
+.text9{
+    font-size: 36px;
+    padding-bottom: 20px;
+}
+.frepik3{
+    color: #888888;
+    padding-bottom: 20px;
+}
+.text10{
+    line-height: 1.5;
+    color: #888888;
+    width: 410px;
+}
+.btn2{
+    padding: 15px 50px;
+    font-weight: 700;
+    border-radius: 7px;
+    background-color: #e8b846;
+    border: none;
+    margin-top: 40px;
+    cursor: pointer;
+}
+.btn2:hover{
+    background: black;
+    color: white;
+}
+.image1{
+    margin-left: 130px;
+    margin-top: -190px;
+}
+.i1{
+height: 380px;
+width: 330px;
+}
+.image2{
+    margin-left: 530px;
+    margin-top: -290px;
+}
+.i2{
+height: 380px;
+width: 530px;
+}
+.image3{
+    margin-left: 360px;
+    margin-top: -40px;
+}
+.i3{
+height: 300px;
+width: 300px;
+}
+.image4{
+    margin-left: 740px;
+    margin-top: -140px;
+}
+.i4{
+height: 300px;
+width: 300px;
+}
+.lorem{
+    padding-bottom: 80px;
+    margin-left: 150px;
+    margin-top: -150px;
+    display: flex;
+    gap: 20px;
+}
+.grey-line{
+    width: 7px;
+    height: 150px;
+    background-color: #888888;
+}
+.text11{
+    line-height: 1.5;
+    margin-top: 15px;
+    width: 380px;
+    color: #888888;
+}
+.section6{
+    background-color: #E8B846 ;
+
+}
+.section6 .row1{
+    width: 1100px;
+    margin: 0% auto;
+    display: flex;
+    padding: 70px;
+
+}
+
+.section6 .row1 .grid{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    width: 548px;
+    height: 400px;
+    gap: 23px;
+    padding-top: 60px;
+    z-index: 5;
+}
+.section6 .box1{
+    background-color:#292D33 ;
+    text-align: center;
+    padding: 30px;
+    color: white;
+    width: 190px;
+    height: 179px;
+
+
+
+}
+.section6 .form{
+    width: 623px;
+    height: 557px;
+    background-color: white;
+    text-align: center;
+    margin-left: -90px;
+    z-index: 4;
+    padding-top:90px ;
+
+
+}
+.section6 input{
+    height: 40px;
+    margin: 10px;
+    width: 397px;
+    background-color:#E5E5E5 ;
+    border: 0px;
+    padding: 3px;
+}
+.section6 .dis{
+height: 200px;
+}
+.section6 .form button{
+    width: 400px;
+    border-radius: 0px;
+}
